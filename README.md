@@ -32,4 +32,4 @@ Otherwise, p = 0, the null hypothesis is rejected, and the process is considered
 
 
 ### References:
-[Guide to time series analysis](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775
+[Guide to time series analysis](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775)
