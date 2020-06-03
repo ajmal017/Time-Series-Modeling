@@ -31,5 +31,20 @@ If it is, then p > 0, and the process is not stationary.
 Otherwise, p = 0, the null hypothesis is rejected, and the process is considered to be stationary.
 
 
+### Tasks:
+1. Intro to time series
+2. Creating a time series object
+3. working with time series
+4. Analysing AR model
+5. Analysing MA model
+
+- Pending:
+6. Analysing ARMA model
+7. Analysing ARIMA model
+8. Working with ARCH model
+9. Working with GARCH model
+10. Analysing Auto-ARIMA model
+
+
 ### References:
 [Guide to time series analysis](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775)
