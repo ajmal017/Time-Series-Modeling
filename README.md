@@ -69,6 +69,10 @@ The ARCH model is appropriate when the error variance in a time series follows a
 ```
 10. Analysing Auto-ARIMA model
 
+### Business Case
+Once the individual analysis of all possible models of Time Series is completed, let's carry out a systematic analysis of some companies over the period. In this case study we will use the stock details as available via 'yfinance' library and then get the data for 3 companies, namely - Volkswagen, Porsche, BMW.
+
+The entire analysis and report is available [here](https://github.com/tanaymukherjee/Time-Series-Modeling/blob/master/Business%20Case/Time_Series_Business_Case.ipynb).
 
 ### References:
 [Guide to time series analysis](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775)
