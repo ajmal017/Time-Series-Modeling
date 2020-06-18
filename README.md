@@ -41,8 +41,6 @@ Otherwise, p = 0, the null hypothesis is rejected, and the process is considered
 7. Analysing ARIMA model
 8. Working with ARCH model
 9. Working with GARCH model
-
-- Pending:
 10. Analysing Auto-ARIMA model
 
 
